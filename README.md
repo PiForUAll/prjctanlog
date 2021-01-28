@@ -1,5 +1,5 @@
-# prjctanlog
-Project Analog was made to revive the TV no Tomo/TV Friend Channel
+# Toma TV for Wii
+Toma TV for Wii was made to revive the TV no Tomo/TV Friend Channel
 
 # Discord
 https://discord.gg/vpdXsEYj
